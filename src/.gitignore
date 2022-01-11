@@ -1,4 +1,4 @@
 .idea
-power
-file1.txt
-file2.txt
+out
+Zebra.iml
+*.txt
